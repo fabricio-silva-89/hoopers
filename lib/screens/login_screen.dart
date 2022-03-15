@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:hoopers/components/button_widget.dart';
-import 'package:hoopers/components/input_text_widget.dart';
-import 'package:hoopers/theme/app_colors.dart';
-import 'package:hoopers/theme/app_images.dart';
-import 'package:hoopers/theme/app_text_styles.dart';
+
+import '../components/button_widget.dart';
+import '../components/input_text_widget.dart';
+import '../theme/app_colors.dart';
+import '../theme/app_images.dart';
+import '../theme/app_text_styles.dart';
 
 class LoginScreen extends StatelessWidget {
   const LoginScreen({Key? key}) : super(key: key);
