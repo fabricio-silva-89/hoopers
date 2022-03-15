@@ -18,7 +18,7 @@ class InputTextWidget extends StatelessWidget {
     final size = MediaQuery.of(context).size;
 
     return Container(
-      width: size.width >= 372 ? 340 : size.width * 0.9,
+      width: size.width >= 388 ? 340 : size.width - 48,
       padding: const EdgeInsets.symmetric(
         horizontal: 16,
         vertical: 4,
