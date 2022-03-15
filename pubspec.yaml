@@ -25,3 +25,4 @@ flutter:
   assets:
     - assets/images/logo600px.png
     - assets/images/logo160px.png
+    - assets/images/group-image-default.png

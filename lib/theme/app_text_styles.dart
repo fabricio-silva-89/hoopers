@@ -5,14 +5,14 @@ import 'app_colors.dart';
 class AppTextStyles {
   static const titleWhite = TextStyle(
     fontSize: 20,
-    fontWeight: FontWeight.bold,
+    fontWeight: FontWeight.w600,
     color: AppColors.white,
     fontFamily: 'Roboto',
   );
 
   static const titleBlue = TextStyle(
     fontSize: 20,
-    fontWeight: FontWeight.bold,
+    fontWeight: FontWeight.w600,
     color: AppColors.primary,
     fontFamily: 'Roboto',
   );
