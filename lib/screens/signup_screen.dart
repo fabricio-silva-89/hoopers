@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:hoopers/components/button_widget.dart';
-import 'package:hoopers/theme/app_text_styles.dart';
 
-import '../components/input_text_widget.dart';
-import '../theme/app_colors.dart';
-import '../theme/app_images.dart';
+import '../components/components.dart';
+import '../theme/theme.dart';
 
 class SignupScreen extends StatelessWidget {
   const SignupScreen({Key? key}) : super(key: key);

@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../theme/app_colors.dart';
-import '../theme/app_text_styles.dart';
+import '../theme/theme.dart';
 
 class InputTextWidget extends StatelessWidget {
   final String hint;

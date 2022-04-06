@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'app_colors.dart';
+import 'theme.dart';
 
 class AppTextStyles {
   static const titleWhite = TextStyle(

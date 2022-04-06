@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../components/group_card_widget.dart';
-import '../theme/app_colors.dart';
-import '../theme/app_text_styles.dart';
+import '../components/components.dart';
+import '../theme/theme.dart';
 
 class GroupScreen extends StatelessWidget {
   const GroupScreen({Key? key}) : super(key: key);

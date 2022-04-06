@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hoopers/screens/group_screen.dart';
+
+import 'screens/screens.dart';
 
 void main() {
   runApp(const MyApp());

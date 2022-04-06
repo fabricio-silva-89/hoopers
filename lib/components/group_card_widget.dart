@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:hoopers/theme/app_images.dart';
 
-import '../theme/app_colors.dart';
-import '../theme/app_text_styles.dart';
+import '../theme/theme.dart';
 
 class GroupCardWidget extends StatelessWidget {
   const GroupCardWidget({Key? key}) : super(key: key);
